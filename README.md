@@ -2,7 +2,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://github.com/BLayus/MVP_Analise-de-Dados/blob/main/Img/fraude_ilustr.jpg" alt="Ilustração Fraude" height= "100px" style= "display:inline-block; margin-righ:10px;"/p>
+<img src="https://github.com/BLayus/MVP_Analise-de-Dados/blob/main/Img/fraude_ilustr.jpg" alt="Ilustração Fraude" height= "50px" style= "display:inline-block; margin-righ:10px;"/p>
 <br>
 <br>
 <h2>Projeto de Análise e Detecção de Fraudes em Compras Online com Cartão de Crédito</h2>
