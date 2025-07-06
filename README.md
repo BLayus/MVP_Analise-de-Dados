@@ -1,8 +1,19 @@
 <h1>MVP Análise de Dados</h1> <!-- maior -->
 <br>
 <br>
+
+📊[**Acesse aqui o Notebook Completo**](https://github.com/BLayus/MVP_Analise-de-Dados/blob/main/MVP_Analise_de_Dados_Credit_Card_Fraud_Detection.ipynb)
+<br>
+Estudo completo de análise de dados, pré-processamento e modelagem para detecção de fraudes usando Python + Scikit-learn
+
+<br>
+<br>
 <p align="center">
-<img src="https://github.com/BLayus/MVP_Analise-de-Dados/blob/main/Img/fraude_ilustr.jpg" alt="Ilustração Fraude" height= "50px" style= "display:inline-block; margin-righ:10px;"/p>
+<img src="https://github.com/BLayus/MVP_Analise-de-Dados/blob/main/Img/fraude_ilustr.jpg" 
+     alt="Ilustração Fraude" 
+     height= "100px" 
+     style="margin-right:10px;"/>
+</p>
 <br>
 <br>
 <h2>Projeto de Análise e Detecção de Fraudes em Compras Online com Cartão de Crédito</h2>
