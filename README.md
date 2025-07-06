@@ -2,7 +2,7 @@
 <br>
 <br>
 
-📊[**Acesse aqui o Notebook Completo**](https://github.com/BLayus/MVP_Analise-de-Dados/blob/main/MVP_Analise_de_Dados_Credit_Card_Fraud_Detection.ipynb)
+📊  [**Acesse aqui o Notebook Completo**](https://github.com/BLayus/MVP_Analise-de-Dados/blob/main/MVP_Analise_de_Dados_Credit_Card_Fraud_Detection.ipynb)
 <br>
 Estudo completo de análise de dados, pré-processamento e modelagem para detecção de fraudes usando Python + Scikit-learn
 
@@ -11,8 +11,7 @@ Estudo completo de análise de dados, pré-processamento e modelagem para detec�
 <p align="center">
 <img src="https://github.com/BLayus/MVP_Analise-de-Dados/blob/main/Img/fraude_ilustr.jpg" 
      alt="Ilustração Fraude" 
-     height= "100px" 
-     style="margin-right:10px;"/>
+     width= "200px"/>
 </p>
 <br>
 <br>
